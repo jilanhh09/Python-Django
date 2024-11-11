@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, tr, td{
+  border: 2px black solid;
+}
+
+.djangtwo {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
